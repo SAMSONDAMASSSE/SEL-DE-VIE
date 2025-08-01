@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon Entreprise</title>
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    header { background: #3498db; color: white; padding: 10px; }
+    nav a { margin: 10px; color: white; text-decoration: none; }
+    section { margin-top: 20px; }
+    footer { margin-top: 40px; font-size: 14px; color: #666; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bienvenue chez Mon Entreprise</h1>
+    <nav>
+      <a href="#services">Nos Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="services">
+    <h2>Nos Services</h2>
+    <p>Nous offrons des services de qualité dans divers domaines...</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contactez-nous</h2>
+    <p>Email : contact@monentreprise.com<br>
+    Téléphone : +229 90 00 00 00</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Mon Entreprise. Tous droits réservés.
+  </footer>
+</body>
+</html>
